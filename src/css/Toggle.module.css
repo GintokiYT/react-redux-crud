@@ -1,0 +1,9 @@
+.Toggle {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+.Toggle svg {
+  font-size: 20px;
+  cursor: pointer;
+}/*# sourceMappingURL=Toggle.module.css.map */

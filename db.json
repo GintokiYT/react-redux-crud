@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "Carne de res",
+      "precio": "150",
+      "id": "8f3ccece-ed05-42ed-adc1-d05fd7ea42b4"
+    },
+    {
+      "nombre": "Papas Fritas",
+      "precio": "70",
+      "id": "a356129b-9361-40e6-afaf-2c764ec57a1a"
+    },
+    {
+      "nombre": "Tomates Cherry",
+      "precio": "15",
+      "id": "2031392c-961f-47d8-97a5-9d85e270b8bd"
+    },
+    {
+      "nombre": "Palta",
+      "precio": "22",
+      "id": "76098777-04ac-46e1-bff6-0056013cf9b3"
+    },
+    {
+      "nombre": "Papas Amarillas",
+      "precio": "180",
+      "id": "cff0750a-1436-46d8-b534-95073747124c"
+    }
+  ]
+}

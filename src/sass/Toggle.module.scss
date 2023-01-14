@@ -1,0 +1,11 @@
+.Toggle {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+
+  svg {
+    font-size: 20px;
+    // fill: var(--background);
+    cursor: pointer;
+  }
+}

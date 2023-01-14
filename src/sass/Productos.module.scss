@@ -1,0 +1,33 @@
+.ContenedorProductos {
+  width: 100%;
+  min-height: calc(100vh - 70px);
+  display: flex;
+  flex-direction: column;
+}
+
+.SubTitulo {
+  text-align: center;
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+.ButtonProducto {
+  margin: 20px auto;
+  width: 100%;
+  max-width: 200px;
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #087EA4;
+  color: #fff;
+
+  &:hover {
+    background-color: #107091;
+  }
+}
+
+.ContenedorGrid {
+  display: grid;
+  grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
+  row-gap: 20px;
+}
